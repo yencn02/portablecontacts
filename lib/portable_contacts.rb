@@ -1,6 +1,6 @@
 require 'uri'
 require 'json'
-require 'activesupport'
+require 'active_support/all'
 module PortableContacts
   
   # This is the main PortableContacts Client.
